@@ -1,4 +1,4 @@
 # Хаб знаний 
  
 ## ARC
-- [ARC](Files/ARC.md)
+- [Strong, weak, unowned](Files/ARC.md)
