@@ -1,0 +1,2 @@
+- [RUS Конфигурация кнопок в iOS 15](https://telegra.ph/Konfiguraciya-knopok-v-iOS-15-05-28)
+- [ENG Button Configuration in iOS 15](https://useyourloaf.com/blog/button-configuration-in-ios-15/)
