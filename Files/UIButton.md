@@ -1,0 +1,1 @@
+- [Конфигурация кнопок в iOS 15](https://telegra.ph/Konfiguraciya-knopok-v-iOS-15-05-28)

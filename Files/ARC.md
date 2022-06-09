@@ -1,0 +1,1 @@
+- [Особенности выбора типа ссылки (strong, weak, unowned) для передаваемых объектов](https://www.youtube.com/watch?v=q1OFkTfi7d4) 
