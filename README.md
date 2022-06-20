@@ -1,6 +1,7 @@
 ## Swift
 
 - [ARC](Files/ARC.md)
+- [Functions](Files/func.md)
 
 ---
 ## UIKit
