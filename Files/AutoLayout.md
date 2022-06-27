@@ -1,3 +1,3 @@
-- [Auto Layout in Swift: Writing constraints programmatically](https://www.avanderlee.com/swift/auto-layout-programmatically/)
-- [iPhone X и тайны SafeArea](https://medium.com/yandex-maps-mobile/iphone-x-и-тайны-safearea-1d2e76d15840)
+- [avanderlee.com: Auto Layout in Swift: Writing constraints programmatically](https://www.avanderlee.com/swift/auto-layout-programmatically/)
+- [Medium: iPhone X и тайны SafeArea](https://medium.com/yandex-maps-mobile/iphone-x-и-тайны-safearea-1d2e76d15840)
 - [Apple Documentation: Programmatically Creating Constraints](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1)

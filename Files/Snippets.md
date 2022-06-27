@@ -60,4 +60,4 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 # Sources
 
-- [How to create code snippets in Xcode](https://sarunw.com/posts/how-to-create-code-snippets-in-xcode/)
+- [sarunw.com: How to create code snippets in Xcode](https://sarunw.com/posts/how-to-create-code-snippets-in-xcode/)

@@ -1,1 +1,1 @@
-- [Занятие 25 - Enum / Перечисление](https://www.youtube.com/watch?v=vYpGh9TgqjE)
+- [YouTube: Занятие 25 - Enum / Перечисление](https://www.youtube.com/watch?v=vYpGh9TgqjE)
