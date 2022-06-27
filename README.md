@@ -1,6 +1,7 @@
 ## Swift
 
 - [ARC](Files/ARC.md)
+- [Enum](Files/Enum.md)
 - [Functions](Files/func.md)
 
 ---
