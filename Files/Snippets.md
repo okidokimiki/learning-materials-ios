@@ -1,6 +1,6 @@
-## My snippets
+# My snippets
 
-- Marks
+## Marks
 ```swift
 // MARK: - Layout
 // MARK: - Public/Private Methods
@@ -8,7 +8,7 @@
 // MARK: - Creating Subviews
 // MARK: - Initilization
 ```
-- SUI
+## SUI
 
 Preview canvas simulator from SwiftUI:
 
@@ -37,6 +37,8 @@ struct FlowProvider: PreviewProvider {
 }
 ```
 
+## UIKit
+
 Disabling Storyboard layout:
 
 ```swift
@@ -57,7 +59,6 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 }
 ```
 
----
-## Sources
+# Sources
 
 - [How to create code snippets in Xcode](https://sarunw.com/posts/how-to-create-code-snippets-in-xcode/)
