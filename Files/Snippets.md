@@ -31,8 +31,7 @@ struct FlowProvider: PreviewProvider {
         }
         
         func updateUIViewController(_ uiViewController: Containter.UIViewControllerType,
-                                    context: UIViewControllerRepresentableContext<Containter>) {
-        }
+                                    context: UIViewControllerRepresentableContext<Containter>) { }
     }
 }
 ```
