@@ -1,0 +1,2 @@
+- [YouTube: Custom TabBar программно (Swift 5)](https://www.youtube.com/watch?v=n91fDwkrwds)
+- [Medium: Design a Dribbble-like UITabBar in iOS App Using Swift 5](https://betterprogramming.pub/how-to-create-a-nice-uitabbar-for-your-ios-app-using-swift-5-pt-1-f9d2d5450909)

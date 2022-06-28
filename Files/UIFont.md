@@ -8,4 +8,4 @@ for family in UIFont.familyNames {
 }
 ```
 
-- [Building a Design System for iOS - Typography](https://www.ramshandilya.com/blog/design-system-typography/)
+- [ramshandilya.com: Building a Design System for iOS - Typography](https://www.ramshandilya.com/blog/design-system-typography/)
