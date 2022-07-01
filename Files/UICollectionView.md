@@ -1,0 +1,1 @@
+- [github.com: extension UICollectionView/UITableView + reuseId, dequeueCell, register](https://github.com/DmitriiChikovinskii/simpleviper/blob/master/ViperModule/Extensions/ReuseIdentifier.swift)
