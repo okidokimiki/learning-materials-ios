@@ -1,5 +1,7 @@
 # My snippets
 
+`⌘` + `⇧ Shift` + `L`
+
 ## Marks
 ```swift
 // MARK: - Layout
