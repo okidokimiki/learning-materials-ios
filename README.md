@@ -16,4 +16,5 @@
 - [UICalendarView](Files/UICalendarView.md)
 - [UITabBar](Files/UITabBar.md)
 - [UIButton](Files/UIButton.md)
+- [UIColor](Files/UIColor.md)
 - [UIFont](Files/UIFont.md)
