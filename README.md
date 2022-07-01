@@ -7,6 +7,7 @@
 
 - [ARC](Files/ARC.md)
 - [Enum](Files/Enum.md)
+- [Error](Files/Error.md)
 - [Functions](Files/func.md)
 
 ---
