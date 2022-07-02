@@ -1,10 +1,12 @@
 # My snippets
 
+`⌘` + `⇧ Shift` + `L`
+
 ## Marks
 ```swift
 // MARK: - Layout
-// MARK: - Public/Private Methods
-// MARK: - Public/Private Properties
+// MARK: - Public/Private/Override Methods
+// MARK: - Public/Private/Override Properties
 // MARK: - Creating Subviews
 // MARK: - Initilization
 ```
