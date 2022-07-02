@@ -26,4 +26,4 @@
 ---
 ## Git
 
-- [Git flow](Files/GitFlow.md)
+- [GitFlow](Files/GitFlow.md)
