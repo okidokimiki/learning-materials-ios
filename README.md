@@ -27,6 +27,10 @@
 - [UIFont](Files/UIFont.md)
 
 ---
+## SUI
+- [Property Wrappers](Files/PropertyWrappers.md)
+
+---
 ## Git
 
 - [GitFlow](Files/GitFlow.md)
