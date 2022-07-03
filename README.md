@@ -8,11 +8,8 @@
 - [ARC](Files/ARC.md)
 - [Enum](Files/Enum.md)
 - [Error](Files/Error.md)
+- [Network](Files/Network.md)
 - [Functions](Files/func.md)
-
-### Network
-
-- [Foundation](Files/NetFoundation.md)
 
 ---
 ## UIKit
