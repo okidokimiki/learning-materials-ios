@@ -1,3 +1,3 @@
-- [YouTube: Преобразование цвета из HEX в UIColor](https://www.youtube.com/watch?v=4A5gZgChqRw)
+- [YouTube: Преобразование цвета из HEX в UIColor (SWIFTBOOK)](https://www.youtube.com/watch?v=4A5gZgChqRw)
 - [ramshandilya.com: Building a Design System for iOS - Colors](https://www.ramshandilya.com/blog/design-system-colors/)
 - [Habr: Цвета в Swift: UIColor](https://habr.com/ru/post/543184/?ysclid=l52k3mv5no172277484)
