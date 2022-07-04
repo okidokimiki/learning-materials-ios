@@ -1,1 +1,2 @@
 - [StackOverflow: Vertically align text to top within a UILabel](https://stackoverflow.com/questions/1054558/vertically-align-text-to-top-within-a-uilabel)
+- [StackOverflow: How to Increase Line spacing in UILabel in Swift](https://stackoverflow.com/questions/39158604/how-to-increase-line-spacing-in-uilabel-in-swift)
