@@ -46,9 +46,9 @@ struct FlowProvider: PreviewProvider {
 private var <#viewName#>: <#ViewClass#> {
     guard let castedView = view as? <#ViewClass#> else {
         fatalError("TypeCasting Error: presenterView must be \(<#ViewClass#>.self)")
-}
+    }
 
-return castedView
+    return castedView
 }
 ```
 
