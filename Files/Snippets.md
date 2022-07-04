@@ -1,6 +1,7 @@
 # My snippets
 
-`⌘` + `⇧ Shift` + `L`
+Show: `⌘` + `⇧ Shift` + `L`
+Create: `Editor` -> `Create Code Snippet...`
 
 ## Marks
 ```swift
@@ -27,9 +28,9 @@ struct FlowProvider: PreviewProvider {
     struct SUIContainterView: UIViewControllerRepresentable {
         typealias Containter = FlowProvider.SUIContainterView
         
-        func makeUIViewController(context: UIViewControllerRepresentableContext<Containter>) -> <#YourViewController#> {
+        func makeUIViewController(context: UIViewControllerRepresentableContext<Containter>) -> <#ViewController#> {
             
-            return <#YourViewController()#>
+            return <#ViewController()#>
         }
         
         func updateUIViewController(_ uiViewController: Containter.UIViewControllerType,
@@ -45,7 +46,7 @@ struct FlowProvider: PreviewProvider {
 ```swift
 private var <#viewName#>: <#ViewClass#> {
     guard let castedView = view as? <#ViewClass#> else {
-        fatalError("TypeCasting Error: presenterView must be \(<#ViewClass#>.self)")
+        fatalError("TypeCasting Error: view must be \(<#ViewClass#>.self)")
     }
 
     return castedView
@@ -65,7 +66,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         guard let windowScene = (scene as? UIWindowScene) else { return }
         
         window = UIWindow(windowScene: windowScene)
-        window?.rootViewController = <#YourRootViewController#>
+        window?.rootViewController = <#ViewController()#>
         window?.makeKeyAndVisible()
     }
 }
