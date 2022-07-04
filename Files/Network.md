@@ -1,0 +1,1 @@
+- [YouTube: 07. Networking — Тимофей Сурков (Школа моб. разраб. Яндекса)](https://www.youtube.com/watch?v=o6vukFbhGlw&list=WL&index=17&t=1655s)

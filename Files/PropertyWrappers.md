@@ -1,0 +1,1 @@
+- [YouTube: Занятие 26 - Property Wrappers](https://www.youtube.com/watch?v=gdAmWX_MrfU&list=WL&index=2&t=368s)

@@ -1,1 +1,1 @@
-- [YouTube: Особенности выбора типа ссылки (strong, weak, unowned) для передаваемых объектов](https://www.youtube.com/watch?v=q1OFkTfi7d4) 
+- [YouTube: Особенности выбора типа ссылки для передаваемых объектов: strong, weak, unowned (SWIFTBOOK)](https://www.youtube.com/watch?v=q1OFkTfi7d4) 
