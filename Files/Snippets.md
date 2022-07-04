@@ -6,11 +6,11 @@ Create: `Editor` -> `Create Code Snippet...`
 
 ## Marks
 ```swift
-// MARK: - Public/Private/Override Properties
-// MARK: - Public/Private/Override Methods
+// MARK: - Private/Override Properties
+// MARK: - Private/Override Methods
 // MARK: - Creating Subviews
 // MARK: - Initilization
-// MARK: - Layout
+// MARK: - AutoLayout
 ```
 ## SUI
 
