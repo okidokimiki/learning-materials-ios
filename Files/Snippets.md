@@ -1,18 +1,20 @@
 # My snippets
 
-`⌘` + `⇧ Shift` + `L`
+Show: `⌘` + `⇧ Shift` + `L`
+
+Create: `Editor` -> `Create Code Snippet...`
 
 ## Marks
 ```swift
-// MARK: - Layout
-// MARK: - Public/Private/Override Methods
-// MARK: - Public/Private/Override Properties
+// MARK: - Private/Override Properties
+// MARK: - Private/Override Methods
 // MARK: - Creating Subviews
 // MARK: - Initilization
+// MARK: - AutoLayout
 ```
 ## SUI
 
-Preview canvas simulator from SwiftUI:
+- SUIPreview: preview canvas simulator from SwiftUI:
 
 ```swift
 import SwiftUI
@@ -27,9 +29,9 @@ struct FlowProvider: PreviewProvider {
     struct SUIContainterView: UIViewControllerRepresentable {
         typealias Containter = FlowProvider.SUIContainterView
         
-        func makeUIViewController(context: UIViewControllerRepresentableContext<Containter>) -> <#YourViewController#> {
+        func makeUIViewController(context: UIViewControllerRepresentableContext<Containter>) -> <#ViewController#> {
             
-            return <#YourViewController()#>
+            return <#ViewController()#>
         }
         
         func updateUIViewController(_ uiViewController: Containter.UIViewControllerType,
@@ -40,7 +42,19 @@ struct FlowProvider: PreviewProvider {
 
 ## UIKit
 
-Disabling Storyboard layout:
+- CastView: casting View of ViewController to customView
+
+```swift
+private var <#viewName#>: <#ViewClass#> {
+    guard let castedView = view as? <#ViewClass#> else {
+        fatalError("TypeCasting Error: view must be \(<#ViewClass#>.self)")
+    }
+
+    return castedView
+}
+```
+
+- Disabling Storyboard layout:
 
 ```swift
 import UIKit
@@ -53,7 +67,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         guard let windowScene = (scene as? UIWindowScene) else { return }
         
         window = UIWindow(windowScene: windowScene)
-        window?.rootViewController = <#YourRootViewController#>
+        window?.rootViewController = <#ViewController()#>
         window?.makeKeyAndVisible()
     }
 }
@@ -62,3 +76,4 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 # Sources
 
 - [sarunw.com: How to create code snippets in Xcode](https://sarunw.com/posts/how-to-create-code-snippets-in-xcode/)
+- [GitHub: Xcode MVP+C Templates](https://github.com/IrelDev/Xcode-MVP-C-Templates/blob/master/MVP-C%20Structure.xctemplate/___FILEBASENAME___Presenter.swift)

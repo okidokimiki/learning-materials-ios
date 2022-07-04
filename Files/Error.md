@@ -1,1 +1,1 @@
-- [github.com: custom LocalizedError with descriptions](https://github.com/risinggalaxy/rijksmuseum/blob/c06e26d87d1a711152031d3578aa9dce6f6692c1/Rijksmuseum/Services-Utilities/ErrorHandler.swift)
+- [GitHub: custom LocalizedError with descriptions](https://github.com/risinggalaxy/rijksmuseum/blob/c06e26d87d1a711152031d3578aa9dce6f6692c1/Rijksmuseum/Services-Utilities/ErrorHandler.swift)

@@ -15,11 +15,13 @@
 ## UIKit
 
 - [Auto Layout](Files/AutoLayout.md)
+- [UIViewController](Files/UIViewController.md)
 - [UICollectionView](Files/UICollectionView.md)
 - [UICalendarView](Files/UICalendarView.md)
 - [UIImageView](Files/UIImageView.md)
 - [UITabBar](Files/UITabBar.md)
 - [UIButton](Files/UIButton.md)
+- [UILabel](Files/UILabel.md)
 - [UIColor](Files/UIColor.md)
 - [UIFont](Files/UIFont.md)
 
