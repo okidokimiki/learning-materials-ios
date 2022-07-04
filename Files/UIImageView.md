@@ -1,2 +1,3 @@
 - [StackOverflow: Loading/Downloading image from URL on Swift](https://stackoverflow.com/questions/24231680/loading-downloading-image-from-url-on-swift?page=1&tab=trending#tab-top)
 - [StackOverflow: How to cache images using URLSession in Swift](https://stackoverflow.com/questions/40873685/how-to-cache-images-using-urlsession-in-swift)
+- [GitHub: swift async url image loader](https://github.com/IrelDev/swift-async-url-image-loader)
