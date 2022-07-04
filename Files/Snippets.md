@@ -4,15 +4,15 @@
 
 ## Marks
 ```swift
-// MARK: - Layout
 // MARK: - Public/Private/Override Methods
 // MARK: - Public/Private/Override Properties
 // MARK: - Creating Subviews
 // MARK: - Initilization
+// MARK: - Layout
 ```
 ## SUI
 
-Preview canvas simulator from SwiftUI:
+- SUIPreview: preview canvas simulator from SwiftUI:
 
 ```swift
 import SwiftUI
@@ -40,7 +40,19 @@ struct FlowProvider: PreviewProvider {
 
 ## UIKit
 
-Disabling Storyboard layout:
+- CastView: casting View of ViewController to customView
+
+```swift
+private var <#viewName#>: <#ViewClass#> {
+    guard let castedView = view as? <#ViewClass#> else {
+        fatalError("TypeCasting Error: presenterView must be \(<#ViewClass#>.self)")
+}
+
+return castedView
+}
+```
+
+- Disabling Storyboard layout:
 
 ```swift
 import UIKit
