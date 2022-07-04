@@ -4,8 +4,8 @@
 
 ## Marks
 ```swift
-// MARK: - Public/Private/Override Methods
 // MARK: - Public/Private/Override Properties
+// MARK: - Public/Private/Override Methods
 // MARK: - Creating Subviews
 // MARK: - Initilization
 // MARK: - Layout
