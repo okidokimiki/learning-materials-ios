@@ -1,6 +1,7 @@
 # My snippets
 
 Show: `⌘` + `⇧ Shift` + `L`
+
 Create: `Editor` -> `Create Code Snippet...`
 
 ## Marks
