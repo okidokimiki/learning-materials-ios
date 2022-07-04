@@ -76,3 +76,4 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 # Sources
 
 - [sarunw.com: How to create code snippets in Xcode](https://sarunw.com/posts/how-to-create-code-snippets-in-xcode/)
+- [GitHub: Xcode MVP+C Templates](https://github.com/IrelDev/Xcode-MVP-C-Templates/blob/master/MVP-C%20Structure.xctemplate/___FILEBASENAME___Presenter.swift)
