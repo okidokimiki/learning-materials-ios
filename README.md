@@ -19,6 +19,7 @@
 - [UIViewController](Files/UIViewController.md)
 - [UICollectionView](Files/UICollectionView.md)
 - [UICalendarView](Files/UICalendarView.md)
+- [UIScrollView](Files/UIScrollView.md)
 - [UIImageView](Files/UIImageView.md)
 - [UITabBar](Files/UITabBar.md)
 - [UIButton](Files/UIButton.md)
