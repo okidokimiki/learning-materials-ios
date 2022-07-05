@@ -15,6 +15,7 @@
 ## UIKit
 
 - [Auto Layout](Files/AutoLayout.md)
+- [LayoutSubviews](Files/LayoutSubviews.md)
 - [UIViewController](Files/UIViewController.md)
 - [UICollectionView](Files/UICollectionView.md)
 - [UICalendarView](Files/UICalendarView.md)
