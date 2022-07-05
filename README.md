@@ -34,4 +34,5 @@
 ---
 ## Git
 
+- [GitCourse](Files/GitCourse.md)
 - [GitFlow](Files/GitFlow.md)

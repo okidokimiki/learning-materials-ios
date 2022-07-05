@@ -1,0 +1,1 @@
+- [LearnGitBranching: Изучение работы ветвлений в Гит(е)](https://learngitbranching.js.org/?locale=ru_RU)
