@@ -15,9 +15,11 @@
 ## UIKit
 
 - [Auto Layout](Files/AutoLayout.md)
+- [LayoutSubviews](Files/LayoutSubviews.md)
 - [UIViewController](Files/UIViewController.md)
 - [UICollectionView](Files/UICollectionView.md)
 - [UICalendarView](Files/UICalendarView.md)
+- [UIScrollView](Files/UIScrollView.md)
 - [UIImageView](Files/UIImageView.md)
 - [UITabBar](Files/UITabBar.md)
 - [UIButton](Files/UIButton.md)
@@ -32,4 +34,5 @@
 ---
 ## Git
 
+- [GitCourse](Files/GitCourse.md)
 - [GitFlow](Files/GitFlow.md)
