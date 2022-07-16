@@ -16,6 +16,7 @@
 
 - [Auto Layout](Files/AutoLayout.md)
 - [LayoutSubviews](Files/LayoutSubviews.md)
+- [UISearchController](Files/UISearchController.md)
 - [UIViewController](Files/UIViewController.md)
 - [UICollectionView](Files/UICollectionView.md)
 - [UICalendarView](Files/UICalendarView.md)
