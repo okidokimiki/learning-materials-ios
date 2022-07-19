@@ -10,6 +10,7 @@
 - [Error](Files/Error.md)
 - [Network](Files/Network.md)
 - [Functions](Files/func.md)
+- [Documentation](Files/Doc.md)
 - [Best Practices](Files/Best.md)
 
 ---
