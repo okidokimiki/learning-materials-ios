@@ -1,0 +1,1 @@
+- [Habr: iOS Responder Chain или Что спрашивают на собеседовании](https://habr.com/ru/post/464463/)

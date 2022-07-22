@@ -16,6 +16,7 @@
 ---
 ## UIKit
 
+- [UIResponder](Files/UIResponder.md)
 - [Auto Layout](Files/AutoLayout.md)
 - [LayoutSubviews](Files/LayoutSubviews.md)
 - [UISearchController](Files/UISearchController.md)
